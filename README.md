@@ -26,7 +26,7 @@ O objetivo principal deste projeto é desenvolver uma agenda online que ofereça
 2. Clone este repositório em sua máquina local.
 3. Navegue até a pasta `Projeto-Agenda` do projeto no terminal.
 4. Execute o comando `npm i` para instalar as dependências.
-5. Crie um projeto no banco de dados **MongoDB**.
+5. Crie um projeto no banco de dados **MongoDB**, configure seu **login** e permita a conexão do seu **Endereço IP**  .
 6. Configure as variáveis de ambiente necessárias:
    1. Crie um arquivo `.env`, na pasta `Projeto-Agenda` e edite-o com um editor de texto.
    2. Coloque o seguinte texto: <br>
