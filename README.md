@@ -37,5 +37,5 @@ O objetivo principal deste projeto é desenvolver uma agenda online que ofereça
       SECRET = 'Qualquer Coisa'
       ```
    3. Substitua `string de conexão mongoDB` e `Qualquer Coisa` por seus respectivos dados.
-7. Execute o comando `npx nodemon server.js` para iniciar o servidor backend.
+7. Execute o comando `npx nodemon server.js` ou `node server.js` para iniciar o servidor backend.
 8. Acesse a aplicação em seu navegador no endereço `http://localhost:3001`.
