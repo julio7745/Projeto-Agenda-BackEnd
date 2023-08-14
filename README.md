@@ -8,11 +8,11 @@ O objetivo principal deste projeto é desenvolver uma agenda online que ofereça
 
 ## Funcionalidades Principais 🔥
 
-- Criação de conta: Os usuários podem criar uma conta pessoal para acessar a agenda online.
-- Cadastro de contatos: Os usuários podem adicionar contatos à sua agenda, fornecendo informações como nome, número de telefone e endereço de e-mail.
-- Edição de Contatos: Os usuários têm a possibilidade de editar os detalhes de um contato existente em sua agenda.
-- Exclusão de contatos: Os usuários têm a opção de remover contatos da agenda.
-- Armazenamento seguro: Todos os dados da agenda são armazenados de forma segura no MongoDB, evitando a sobrecarga de memória no dispositivo do usuário.
+- **Criação de conta**: Os usuários podem criar uma conta pessoal para acessar a agenda online.
+- **Cadastro de contatos**: Os usuários podem adicionar contatos à sua agenda, fornecendo informações como nome, número de telefone e endereço de e-mail.
+- **Edição de Contatos**: Os usuários têm a possibilidade de editar os detalhes de um contato existente em sua agenda.
+- **Exclusão de contatos**: Os usuários têm a opção de remover contatos da agenda.
+- **Armazenamento na nuvem**: Todos os dados da agenda são armazenados de forma segura no MongoDB, evitando a sobrecarga de memória no dispositivo do usuário.
 
 ## Tecnologias Utilizadas 🔧
 
