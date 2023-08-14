@@ -6,7 +6,7 @@
 
 O objetivo principal deste projeto é desenvolver uma agenda online que ofereça aos usuários a capacidade de criar uma conta e acessar a agenda de qualquer lugar. Com esta aplicação, os usuários poderão cadastrar contatos, incluindo números de telefone e endereços de e-mail, além de gerenciar esses contatos de forma eficiente.
 
-## Funcionalidades Principais 🔥
+## Principais Funcionalidades 🔥
 
 - **Criação de conta**: Os usuários podem criar uma conta pessoal para acessar a agenda online.
 - **Cadastro de contatos**: Os usuários podem adicionar contatos à sua agenda, fornecendo informações como nome, número de telefone e endereço de e-mail.
